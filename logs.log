@@ -1,3 +1,47 @@
 2022-07-26 17:08:50,825 INFO SampleTest [main] Драйвер стартовал!
 2022-07-26 17:08:58,846 INFO SampleTest [main] Открыта страница Yandex - https://yandex.ru/
 2022-07-26 17:08:59,097 INFO SampleTest [main] Драйвер остановлен!
+2022-07-26 18:06:53,884 INFO SampleTest [main] env = chrome
+2022-07-26 18:06:55,181 INFO WebDriverFactory [main] Драйвер для Google Chrome
+2022-07-26 18:06:56,857 INFO SampleTest [main] Драйвер стартовал!
+2022-07-26 18:06:56,884 INFO SampleTest [main] title - 
+2022-07-26 18:06:57,731 INFO SampleTest [main] Драйвер остановлен!
+2022-07-26 18:09:27,291 INFO SampleTest [main] env = chrome
+2022-07-26 18:09:27,885 INFO WebDriverFactory [main] Драйвер для Google Chrome
+2022-07-26 18:09:29,437 INFO SampleTest [main] Драйвер стартовал!
+2022-07-26 18:09:29,446 INFO SampleTest [main] title - 
+2022-07-26 18:09:29,928 INFO SampleTest [main] Драйвер остановлен!
+2022-07-26 18:12:23,682 INFO SampleTest [main] env = chrome
+2022-07-26 18:12:24,229 INFO WebDriverFactory [main] Драйвер для Google Chrome
+2022-07-26 18:12:25,619 INFO SampleTest [main] Драйвер стартовал!
+2022-07-26 18:12:31,645 INFO SampleTest [main] Открыта страница Yandex - https://yandex.ru/
+2022-07-26 18:12:31,739 INFO SampleTest [main] title - Яндекс
+2022-07-26 18:12:33,823 INFO SampleTest [main] Драйвер остановлен!
+2022-07-26 18:14:30,596 INFO SampleTest [main] env = chrome
+2022-07-26 18:14:31,111 INFO WebDriverFactory [main] Драйвер для Google Chrome
+2022-07-26 18:14:33,411 INFO SampleTest [main] Драйвер стартовал!
+2022-07-26 18:14:39,203 INFO SampleTest [main] Открыта страница Yandex - https://yandex.ru/
+2022-07-26 18:14:39,339 INFO SampleTest [main] title - Яндекс
+2022-07-26 18:14:39,346 INFO SampleTest [main] current URL - https://yandex.ru/
+2022-07-26 18:14:40,512 INFO SampleTest [main] Драйвер остановлен!
+2022-07-26 18:16:27,874 INFO SampleTest [main] env = chrome
+2022-07-26 18:16:28,405 INFO WebDriverFactory [main] Драйвер для Google Chrome
+2022-07-26 18:16:30,251 INFO SampleTest [main] Драйвер стартовал!
+2022-07-26 18:16:35,977 INFO SampleTest [main] Открыта страница Yandex - https://yandex.ru/
+2022-07-26 18:16:36,120 INFO SampleTest [main] title - Яндекс
+2022-07-26 18:16:36,140 INFO SampleTest [main] current URL - https://yandex.ru/
+2022-07-26 18:16:47,637 INFO SampleTest [main] Драйвер остановлен!
+2022-07-26 18:16:56,864 INFO SampleTest [main] env = chrome
+2022-07-26 18:16:57,489 INFO WebDriverFactory [main] Драйвер для Google Chrome
+2022-07-26 18:16:59,410 INFO SampleTest [main] Драйвер стартовал!
+2022-07-26 18:17:04,465 INFO SampleTest [main] Открыта страница Yandex - https://yandex.ru/
+2022-07-26 18:17:04,762 INFO SampleTest [main] title - Яндекс
+2022-07-26 18:17:04,769 INFO SampleTest [main] current URL - https://yandex.ru/
+2022-07-26 18:17:12,321 INFO SampleTest [main] env = chrome
+2022-07-26 18:17:12,853 INFO WebDriverFactory [main] Драйвер для Google Chrome
+2022-07-26 18:17:14,123 INFO SampleTest [main] Драйвер стартовал!
+2022-07-26 18:17:15,962 INFO SampleTest [main] Драйвер остановлен!
+2022-07-26 18:17:22,797 INFO SampleTest [main] Открыта страница Yandex - https://yandex.ru/
+2022-07-26 18:17:22,805 INFO SampleTest [main] title - Яндекс
+2022-07-26 18:17:22,811 INFO SampleTest [main] current URL - https://yandex.ru/
+2022-07-26 18:17:34,078 INFO SampleTest [main] Драйвер остановлен!
