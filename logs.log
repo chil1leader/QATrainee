@@ -45,3 +45,6 @@
 2022-07-26 18:17:22,805 INFO SampleTest [main] title - Яндекс
 2022-07-26 18:17:22,811 INFO SampleTest [main] current URL - https://yandex.ru/
 2022-07-26 18:17:34,078 INFO SampleTest [main] Драйвер остановлен!
+2022-07-26 21:27:59,738 INFO HW01 [main] Драйвер запущен!
+2022-07-26 21:28:12,328 INFO HW01 [main] Драйвер стартовал
+2022-07-26 21:28:12,660 INFO HW01 [main] Драйвер завершил работу!
